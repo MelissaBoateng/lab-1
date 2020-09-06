@@ -1,5 +1,8 @@
 # Author Melissa Boateng
 # Lab-1 Git Repository Seed
+Link to Github repo : https://github.com/MelissaBoateng/lab-1
+Link to website : http://192.168.56.1:8080/ 
+
 
 This file is the template for the first lab in Ashesi Web Development 2020.
 
